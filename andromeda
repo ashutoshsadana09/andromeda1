@@ -1,0 +1,15 @@
+{
+    "name": "cryptocricket",
+    "description": "Our project aims to create a revolutionary fantasy cricket platform , leveraging the power of blockchain technology and non-fungible tokens (NFTs). Users will be able to collect, trade, and compete with unique digital player cards representing real-world cricket stars. Each player card will be securely stored on the blockchain, ensuring ownership, authenticity, and scarcity. With our platform, cricket enthusiasts can immerse themselves in the world of fantasy cricket like never before, while also exploring the potential of blockchain technology in the sports industry.",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fgame-changer-blockchain-integration-fantasy-cricket-dinesh-i2vbf&psig=AOvVaw25oMZOqR9-istjyBOMK-ob&ust=1712511830371000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND46u6RroUDFQAAAAAdAAAAABAE",
+    "attributes": [
+        {
+            "trait_type": "australia",
+            "value": "20000"
+        },
+        {
+            "trait_type": "india",
+            "value": "30000"
+        }
+    ]
+}
